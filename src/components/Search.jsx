@@ -61,7 +61,7 @@ const Search = () => {
                         <option>Cozumel</option>
                     </select>
                 </div>
-                <div className='flex flex-col my-2'>
+                <div className='flex flex-col my-4'>
                     <label>Check-In</label>
                     <input className='border rounded-md p-2' type="date" />
                 </div>
